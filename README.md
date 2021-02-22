@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To deploy this application run command: npm run deploy proir to pushing to git
+then git -u origin master
 
 ## Available Scripts
 
