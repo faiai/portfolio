@@ -1,0 +1,8 @@
+- Add resume
+- Add font type
+- Make it responsive with hamburger menu
+- Add about section
+    - picture
+    - linkedIn
+    - bio
+- Add Misc Moi page when i have a better idea of what to add there
