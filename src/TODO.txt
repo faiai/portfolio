@@ -6,3 +6,4 @@
     - linkedIn
     - bio
 - Add Misc Moi page when i have a better idea of what to add there
+- Add place holder images to make each page a bit more interesting
